@@ -5,6 +5,6 @@
 
 <img width="267" height="432" alt="微信图片_20250713160726" src="https://github.com/user-attachments/assets/90114608-3840-400a-8682-e0b7d71e5ce0" />
 <img width="235" height="324" alt="微信图片_20250713160546" src="https://github.com/user-attachments/assets/7f3912e7-9c9b-4b48-a27c-b544c70ebfe7" />
-![微信图片_20241030103018](https://github.com/user-attachments/assets/51550e57-f65a-436b-b086-acff38280414)
-![03大厅](https://github.com/user-attachments/assets/18259eb7-51f7-4638-86dc-143b7db882a5)
-![06牌局](https://github.com/user-attachments/assets/4d0f1865-1219-4c3d-b805-adeed9cf168f)
+
+![06牌局](https://github.com/user-attachments/assets/ec336759-6a97-45b7-bf8a-c891c70a4cb4)
+![03大厅](https://github.com/user-attachments/assets/c1b6fb8f-6f0d-4a16-8921-5fd8e6b79df6)
